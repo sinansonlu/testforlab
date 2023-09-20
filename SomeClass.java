@@ -1,3 +1,5 @@
 class SomeClass {
+
+  int x;
   
 }
